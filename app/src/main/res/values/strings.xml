@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Salt Lake City Tour Guide</string>
+    <string name="no_description_given">No Description Given</string>
+
+    <!--Category Names-->
+    <string name="food_category_text">Food</string>
+    <string name="theatre_category_text">Theatre</string>
+    <string name="music_category_text">Music</string>
+    <string name="miscellaneous_category_text">Miscellaneous</string>
+
+    <!--Theatre Info-->
+    <string name="capitol_theatre_name">Capitol Theatre</string>
+    <string name="capitol_theatre_phone">(801) 355–2787</string>
+    <string name="capitol_theatre_address">Arrow Press Square Shopping Center, 50 W 200 S, Salt Lake City, UT 84101</string>
+    <string name="capitol_theatre_description"><![CDATA[Besides hosting concerts & Broadway plays, this 1913 landmark is home to Ballet West & Utah Opera.]]></string>
+    <string name="eccles_theatre_name">Eccles Theater</string>
+    <string name="eccles_theatre_phone">(385) 468–1010</string>
+    <string name="eccles_theatre_address">131 Main St, Salt Lake City, UT 84111</string>
+    <string name="tower_theatre_name">Tower Theatre</string>
+    <string name="tower_theatre_phone">(801) 321–0310</string>
+    <string name="tower_theatre_address">876 E 900 S, Salt Lake City, UT 84105</string>
+    <string name="tower_theatre_description"><![CDATA[Historic art-house cinema featuring new releases, cult classics & sing-alongs, plus a video library.]]></string>
+    <string name="broadway_name">Broadway Centre Cinemas</string>
+    <string name="broadway_phone">(801) 321–0310</string>
+    <string name="broadway_address">111 Broadway, Salt Lake City, UT 84111</string>
+    <string name="broadway_description"><![CDATA[6-screen cinema featuring 1st-run foreign & indie films along with unique concessions & pizza.]]></string>
+    <string name="pioneer_name">Pioneer Theatre Company</string>
+    <string name="pioneer_phone">(801) 581–6961</string>
+    <string name="pioneer_address">The University of Utah, 300 1400 E #205, Salt Lake City, UT 84112</string>
+    <string name="pioneer_description"><![CDATA[Professional company from 1962 presenting dramas, comedies & classics at the University of Utah.]]></string>
+    <string name="rose_wagner_name">Rose Wagner Performing Arts Center</string>
+    <string name="rose_wagner_phone">(801) 355–2787</string>
+    <string name="rose_wagner_address">138 Broadway, Salt Lake City, UT 84101</string>
+    <string name="rose_wagner_description"><![CDATA[3-venue complex hosting dance & theater performances, the Sundance Film Festival & an art gallery.]]></string>
+    <string name="grand_theatre_name">Grand Theatre</string>
+    <string name="grand_theatre_phone">(801) 957–3322</string>
+    <string name="grand_theatre_address">1575 State St, Salt Lake City, UT 84115</string>
+    <string name="grand_theatre_description"><![CDATA[Classy theater at Salt Lake Community College presenting films & live music & drama performances.]]></string>
+
+    <!--Music Info-->
+    <string name="kilby_name">Kilby Court</string>
+    <string name="kilby_phone">(800) 513–7540</string>
+    <string name="kilby_address">748 W Kilby Ct, Salt Lake City, UT 84101</string>
+    <string name="kilby_description"><![CDATA[Pint-sized, bare-bones music venue without age restrictions showcasing local & smaller touring acts.]]></string>
+    <string name="state_room_name">The State Room</string>
+    <string name="state_room_phone">(800) 501–2885</string>
+    <string name="state_room_address">638 State St, Salt Lake City, UT 84111</string>
+    <string name="state_room_description"><![CDATA[Concert venue with a bar hosting touring acts in a cozy space with theater seats & a dance floor.]]></string>
+    <string name="in_the_venue_name">In the Venue</string>
+    <string name="in_the_venue_phone">(801) 359–3219</string>
+    <string name="in_the_venue_address">219 S 600 W, Salt Lake City, UT 84101</string>
+    <string name="depot_name">The Depot</string>
+    <string name="depot_phone">(801) 355–5522</string>
+    <string name="depot_address">The Gateway, 400 W S Temple, Salt Lake City, UT 84101</string>
+    <string name="depot_description"><![CDATA[Modern concert venue & event center featuring touring bands & DJs in a historic Union Pacific depot.]]></string>
+    <string name="urban_lounge_name">Urban Lounge</string>
+    <string name="urban_lounge_phone">(801) 746–0557</string>
+    <string name="urban_lounge_address">241 500 E, Salt Lake City, UT 84102</string>
+    <string name="urban_lounge_description"><![CDATA[Late-night concert venue featuring cocktails & nightly live performances in an intimate interior.]]></string>
+    <string name="garage_name">Garage on Beck</string>
+    <string name="garage_phone">(801) 521–3904</string>
+    <string name="address">1199 Beck St, Salt Lake City, UT 84103</string>
+    <string name="garage_description"><![CDATA[Auto repair shop transformed into a laid-back comfort-food haunt with live music & a garden patio.]]></string>
+    <string name="shred_shed_name">The Shred Shed SLC</string>
+    <string name="shred_shed_phone">(801) 410–0661</string>
+    <string name="shred_shed_address">60 Exchange Pl, Salt Lake City, UT 84111</string>
+
+    <!--Misc Info-->
+    <string name="natural_history_name">Natural History Museum of Utah</string>
+    <string name="natural_history_phone">(801) 581–6927</string>
+    <string name="natural_history_address">301 Wakara Way, Salt Lake City, UT 84108</string>
+    <string name="natural_history_description">The Natural History Museum of Utah is a museum located on the campus of the University of Utah in Salt Lake City, Utah, United States. The museum shows exhibits of natural history subjects, with an emphasis on Utah and the Intermountain West</string>
+    <string name="fine_arts_name">Utah Museum of Fine Arts</string>
+    <string name="fine_arts_phone">(801) 581–7332</string>
+    <string name="fine_arts_address">The University of Utah, 410 Campus Center Dr, Salt Lake City, UT 84112</string>
+    <string name="fine_arts_description">The Utah Museum of Fine Arts is the region\'s primary resource for culture and visual arts. It is located in the Marcia and John Price Museum Building in Salt Lake City, Utah on the University of Utah campus near Rice–Eccles Stadium</string>
+    <string name="leonardo_name">The Leonardo</string>
+    <string name="leonardo_phone">(801) 531–9800</string>
+    <string name="leonardo_address">209 E 500 S, Salt Lake City, UT 84111</string>
+    <string name="leonardo_description">The Leonardo, located in the heart of Salt Lake City, is a unique museum where visitors can explore the unexpected ways that science, technology, art, and creativity connect. The museum opened its doors on October 8, 2011</string>
+    <string name="off_broadway_name">Off Broadway Theatre Inc.</string>
+    <string name="off_broadway_phone">(801) 355–4628</string>
+    <string name="off_broadway_address">272 Main St, Salt Lake City, UT 84101</string>
+    <string name="off_broadway_description"><![CDATA[Intimate, established auditorium that puts on comedy shows, improv nights & Broadway-style musicals.]]></string>
+
+    <!--Food Info-->
+    <string name="settebello_name">Settebello Pizzeria Napoletana</string>
+    <string name="settebello_phone">(801) 322–3556</string>
+    <string name="settebello_address">260 S 200 W, Salt Lake City, UT 84101</string>
+    <string name="settebello_description"><![CDATA[Buzzy venue serving authentic Neapolitan pies along with salads, gelato, wine & beer in casual digs.]]></string>
+    <string name="bambara_name">Bambara</string>
+    <string name="bambara_phone">(801) 363–5454</string>
+    <string name="bambara_address">202 Main St, Salt Lake City, UT 84101</string>
+    <string name="bambara_description"><![CDATA[Inspired New American bistro serving seasonal fare, cocktails & fine wines in the hip Hotel Monaco.]]></string>
+    <string name="brio_name">BRIO Tuscan Grille</string>
+    <string name="brio_phone">(801) 359–4401</string>
+    <string name="brio_address">City Creek Center, 80 South Regent Street, Salt Lake City, UT 84101</string>
+    <string name="brio_description"><![CDATA[Warm, relaxed Italian eatery serving Tuscan-inspired grill fare, wine & cocktails.]]></string>
+    <string name="copper_onion_name">The Copper Onion</string>
+    <string name="copper_onion_phone">(801) 355–3282</string>
+    <string name="copper_onion_address">111 East Broadway #170, Salt Lake City, UT 84111</string>
+    <string name="copper_onion_description"><![CDATA[Locally sourced New American fare, cocktails & brunch in a modern setting with plenty of buzz.]]></string>
+    <string name="blue_lemon_name">Blue Lemon</string>
+    <string name="blue_lemon_phone">(801) 328–2583</string>
+    <string name="blue_lemon_address">City Creek Center, 55 S W Temple, Salt Lake City, UT 84111</string>
+    <string name="blue_lemon_description"><![CDATA[Local counter-serve chain offering breakfast, sandwiches & New American entrees in a modern space.]]></string>
+    <string name="molise_name">Caffé Molise</string>
+    <string name="molise_phone">(801) 364–8833</string>
+    <string name="molise_address">55 100 S, Salt Lake City, UT 84101</string>
+    <string name="molise_description"><![CDATA[Art-filled trattoria serving Northern Italian fare & unique wines in cozy digs with a garden patio.]]></string>
+    <string name="blue_iguana_name">Blue Iguana</string>
+    <string name="blue_iguana_phone">(801) 533–8900</string>
+    <string name="blue_iguana_address">165 S W Temple, Salt Lake City, UT 84101</string>
+    <string name="blue_iguana_description"><![CDATA[Casual Mexican eatery serving mole dishes along with burritos & margaritas in an eclectic setting.]]></string>
+    <string name="takashi_name">Takashi</string>
+    <string name="takashi_phone">(801) 519–9595</string>
+    <string name="takashi_address">18 W Market St, Salt Lake City, UT 84101</string>
+    <string name="takashi_description"><![CDATA[Japanese eatery & sushi bar featuring signature rolls & a big sake list in hip, contemporary digs.]]></string>
+    <string name="eva_name">Eva</string>
+    <string name="eva_phone">(801) 359–8447</string>
+    <string name="eva_address">317 Main St, Salt Lake City, UT 84111</string>
+    <string name="eva_description"><![CDATA[Mediterranean-inspired eatery serving small plates & specialty cocktails in a stylish setting.]]></string>
+    <string name="red_rock_name">Red Rock Brewing Co</string>
+    <string name="red_rock_phone">(801) 521–7446</string>
+    <string name="red_rock_address">254 S 200 W, Salt Lake City, UT 84101</string>
+    <string name="red_rock_description"><![CDATA[Lively brewpub offering beers & an array of New American fare in an industrial-chic setting.]]></string>
+
+</resources>
